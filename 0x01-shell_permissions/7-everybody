@@ -1,2 +1,2 @@
 #!/bin/bash
-unmask 026 hello
+chmod 751 hello
